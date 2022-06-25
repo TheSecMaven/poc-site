@@ -18,7 +18,7 @@
     "install": "^0.13.0",
     "keymirror": "^0.1.1",
     "lines-and-columns": "^1.1.6",
-    "node-fetch": "^2.5.0",
+    "node-fetch": "^2.6.7",
     "opentracing": "^0.14.3",
     "react": "^16.7.0",
     "react-autosuggest": "^9.4.3",
